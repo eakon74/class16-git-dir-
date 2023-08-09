@@ -1,6 +1,6 @@
 name: docker-image-workflow
   on: 
-     push:
+    push:
        branches:
          - main
  jobs:
